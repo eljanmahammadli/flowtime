@@ -5,3 +5,6 @@ FlowTime is a straightforward Flask web application designed for tracking focuse
 As part of future enhancements, there is consideration for hosting the application with a login interface using Google authentication to enhance user experience and accessibility.
 
 Feel free to ask for any specific improvements or modifications you have in mind for the application!
+
+## Example
+![Website](https://github.com/eljanmahammadli/flowtime/blob/master/example.png)
